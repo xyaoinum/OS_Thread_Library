@@ -1,0 +1,2 @@
+Thread Library - Implemented thread library for uniprocessor and multiprocessor
+systems, including thread join/yield, mutex and conditional variables.
